@@ -1,0 +1,7 @@
+{
+  "name": "selection_problems",
+  "version": "1",
+  "description": "selection problems",
+  "main": "index.js",
+  "license": "MIT"
+}
